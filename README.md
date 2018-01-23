@@ -17,7 +17,7 @@ npm install --save ezathon
 npm run dev
 
 你也可以通过npm直接安装这个试例的模块
-nom install ezathon
+npm install ezathon
 
 它将对你开放插件提供一定的帮助。
 

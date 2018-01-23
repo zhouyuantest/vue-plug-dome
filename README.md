@@ -1,5 +1,5 @@
 # vue-plug-dome
-
+vue 插件开发的例子!..实现了简单和主要的逻辑，帮助你快速进行开发。
 > A Vue.js project
 
 ## Build Setup

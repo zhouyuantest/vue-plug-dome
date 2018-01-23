@@ -24,10 +24,12 @@ nom install ezathon
 模块预览
 ![](https://github.com/zhouyuantest/ezaction/blob/master/src/assets/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA.gif)
 
+![Image text](https://raw.githubusercontent.com/zhouyuantest/ezaction/master/src/assets/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA.gif)
+
 
 效果预览 
 
-![Image text](https://github.com/zhouyuantest/ezaction/blob/master/src/assets/功能演示.gif)
+![Image text](https://raw.githubusercontent.com/zhouyuantest/ezaction/master/src/assets/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA.gif)
 
 
 

@@ -5,17 +5,32 @@
 ## Build Setup
 
 ``` bash
+运行的准备！
 # install dependencies
 npm install
 
+安装这个案例模块!
+npm install --save ezathon
+
+运行这个例子!
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+你也可以通过npm直接安装这个试例的模块
+nom install ezathon
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+它将对你开放插件提供一定的帮助。
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+模块预览
+
+
+
+效果预览 
+
+
+
+
+
+
+
+这是一个开发vue模块插件的例子。

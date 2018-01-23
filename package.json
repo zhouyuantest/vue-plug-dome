@@ -10,6 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "ezathon": "^1.0.4",
     "vue": "^2.5.2"
   },
   "devDependencies": {

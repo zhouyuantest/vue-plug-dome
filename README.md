@@ -26,7 +26,7 @@ nom install ezathon
 
 ![](https://raw.githubusercontent.com/zhouyuantest/ezaction/master/src/assets/代码演示.gif)
 ![ABC](http://www.baidu.com/img/bdlogo.gif) 
-
+![](https://github.com/zhouyuantest/new-vue_blog-/blob/master/dome_start/user_login.png)  
 效果预览 
 
 ![Image text](https://raw.githubusercontent.com/zhouyuantest/ezaction/master/src/assets/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA.gif)

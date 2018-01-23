@@ -22,12 +22,11 @@ nom install ezathon
 它将对你开放插件提供一定的帮助。
 
 模块预览
-
+![Image text](https://raw.githubusercontent.com/zhouyuantest/ezaction/master/src/assets/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA.gif)
 
 
 效果预览 
-
-
+![Image text](https://raw.githubusercontent.com/zhouyuantest/ezaction/master/src/assets/%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA.gif)
 
 
 

@@ -22,8 +22,8 @@ nom install ezathon
 它将对你开放插件提供一定的帮助。
 
 模块预览
+![](https://github.com/zhouyuantest/ezaction/blob/master/src/assets/代码演示.gif)
 
-![Image text](https://github.com/zhouyuantest/ezaction/blob/master/src/assets/代码演示.gif)
 
 效果预览 
 
